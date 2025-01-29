@@ -1325,12 +1325,12 @@ body {
 /* Aumentar as flores em telas menores */
 @media (max-width: 768px) {
   .flowers {
-      transform: scale(1.2); /* Aumenta 20% */
+      transform: scale(1); /* Aumenta 20% */
   }
 }
 
 @media (max-width: 480px) {
   .flowers {
-      transform: scale(1.5); /* Aumenta 50% */
+      transform: scale(1.2); /* Aumenta 50% */
   }
 }
