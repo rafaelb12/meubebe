@@ -1331,6 +1331,6 @@ body {
 
 @media (max-width: 480px) {
   .flowers {
-      transform: scale(1.2); /* Aumenta 50% */
+      transform: scale(1.1); /* Aumenta 50% */
   }
 }
